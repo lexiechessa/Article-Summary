@@ -1,6 +1,6 @@
-# Article-Summary
+
 #Age group	#2011-2013	#2012-2014
-0 year	    82.4      82.5
+0 year	82.4      82.5
 1 year	    81.7	    81.8
 2 years	   80.7	    80.8
 3 years	  79.7	    79.9
